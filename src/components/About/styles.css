@@ -1,0 +1,27 @@
+.about {
+  border: 1px solid black;
+  padding: 2px 2px 2px;
+  margin: 5px 5px 5px 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 15%;
+  width: 100%;
+}
+.txt{
+    align-items: center;
+}
+.img {
+  border: 5px dotted rgb(182, 154, 154);
+  border-radius: 5px;
+  padding: 1%;
+  margin: 2%;
+  display:flex;
+  }
+  .col{
+    border : 1px solid blue
+  }
+  .row{
+    border : 1px solid rgb(0, 255, 13)
+  }
